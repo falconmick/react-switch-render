@@ -1,6 +1,6 @@
 {
   "name": "react-switch-render",
-  "version": "0.0.1",
+  "version": "0.1.2",
   "description": "react switch render",
   "main": "dist/index.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "postinstall": "bower install"
   },
   "author": "",
-  "license": "BSD",
+  "license": "MIT",
   "keywords": [
     "react",
     "reactjs",
